@@ -4,6 +4,6 @@ declare(strict_types=1);
 
 namespace SteamMarketProviders\CsGO;
 
-class CsGO
+class CsGOProvider
 {
 }

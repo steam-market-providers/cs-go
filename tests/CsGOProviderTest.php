@@ -6,7 +6,7 @@ namespace SteamMarketProviders\CsGO\Tests;
 
 use PHPUnit\Framework\TestCase;
 
-class CsGOTest extends TestCase
+class CsGOProviderTest extends TestCase
 {
     public function testDefault(): void
     {
